@@ -1,4 +1,4 @@
-module github.com/arnaubennassar/eth-to-libp2p-id
+module github.com/arnaubennassar/eth2libp2p
 
 go 1.16
 
