@@ -1,4 +1,4 @@
-package ethtolibp2pid
+package eth2libp2p
 
 import (
 	"crypto/ecdsa"
